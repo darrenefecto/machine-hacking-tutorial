@@ -16,8 +16,8 @@ but if you look inside you might understand where I'm getting at.
 The __.zip__ file __can__ be opened, __but not the files inside__!
 The Document name is suspicious, isn't it?
 
-This is a little introduction, but if it were real you could ping that IP address and then use `nmap` (Nmap is a free port scanner to scan and evaluate hosts in a computer network).
-We will use "mra.sh" to log into the machine, but first we need to get permission to use the file: chmod +x mra.sh
+This is a little introduction, but if it were real you could ping that IP address and then use `nmap` (_Nmap is a free port scanner to scan and evaluate hosts in a computer network_).
+We will use `mra.sh` to log into the machine, but first we need to get permission to use the file: `chmod +x mra.sh`
 When this has been done, then we can use the file by writing: `./mra.sh -h`
 
 We're being shown the options we have: `-i` (_information gathering_) and `-a` (_attack ; access_)
