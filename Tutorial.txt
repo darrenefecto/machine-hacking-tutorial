@@ -1,12 +1,3 @@
-# why this?!
-I programmed it to give beginners an easy insight into hacking.
-
-# requirements
-  • Kali Linux
-  • maybe Bash installed
-
-# Tutorial
-
 So... 
 You've been sent a .zip file by mistake, but that doesn't really do you any good at first because it's locked, 
 but if you look inside you might understand where I'm getting at.
@@ -52,14 +43,13 @@ I hope you enjoyed it, this introduction was made for beginners who would like t
 I would be happy if you subscribed to Youtube: darrenefecto
 
 
-# Definitions
+  Definitions:
     ( nmap : Network Mapper )
     ( cd : Change Directory )
     ( ls : list files )
     ( cat : concatenate )
     
-    I wrote the scripts for this tutorial, so it's not working on others:
+    I wrote this for this tutorial, so it's not really working on others:
     
     ( mra : Machine Remote Access )
     ( WebCr : Website Controller )
-
